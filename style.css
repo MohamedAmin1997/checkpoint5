@@ -1,0 +1,84 @@
+body{
+    background-color: lightblue;
+
+}
+.first{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(19, 19, 185);
+
+}
+span{
+    color: antiquewhite;
+}
+.principale{
+    background-color: rgb(180, 234, 238);
+    text-align: justify;
+    /*border: 1px groove rgb(240, 8, 8);*/
+    border-left: 20px;
+
+}
+/*.intro{
+    text-align: justify;
+    
+
+}*/
+.form{
+    display: inline-block;
+    width: 46%;
+    box-sizing: border-box;
+
+    
+   /* border: 1px groove rgb(240, 8, 8);*/
+
+}
+#para{
+    font-weight: bolder;
+    color: rgb(22, 69, 129);
+    font-size: 120%;
+}
+#secondp{
+    color: rgb(23, 177, 197);
+    line-height: 2em;
+    margin: 40px;
+}
+
+.form2 {
+    margin-left: 40px;
+}
+.image {
+    width: 300px;
+    margin: 0 auto;
+}
+
+#bt1{
+    width: 300px;
+    height: 40px;
+}
+#opt{
+    width: 40px;
+    height: 20px;
+
+}
+#bt2{
+    width: 300px;
+    height: 40px;
+}
+#bt3{
+    resize: none;
+}
+#bo{
+    width: 300px;
+    height:40px ;
+    text-align: center;
+    background: rgb(131, 195, 247) ;
+}
+#bo:hover{
+    background: rgb(3, 55, 68);
+}
+#begin{
+    font-family: 'Felipa', cursive;
+
+}
+#uld{
+    color: rgb(3, 37, 37);
+}
